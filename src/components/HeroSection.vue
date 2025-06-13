@@ -1,9 +1,8 @@
 <template>
     <section
-    class="relative bg-cover bg-center min-h-screen flex items-center justify-center text-white px-6"
-    style="background-image: url('https://i.imgur.com/DQG2iPL.png');"
-  >
-    <div class="absolute inset-0 bg-black bg-opacity-50"></div>
+        class="relative bg-cover bg-center min-h-screen flex items-center justify-center text-white px-6"
+    >
+    <div class="absolute inset-0 "></div>
 
     <div class="relative z-10 text-center max-w-3xl">
       <h1 class="text-4xl md:text-5xl font-bold mb-4 leading-tight">

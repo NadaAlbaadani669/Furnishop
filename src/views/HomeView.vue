@@ -4,6 +4,11 @@ import HeroSection from '@/components/HeroSection.vue';
 </script>
 
 <template>
-  <Navbar />
-  <HeroSection />
+    <section style="background-image: url('../src/assets/images/bg.jpg');" class="bg-right bg-cover">
+      <div class="px-10 md:px-24">
+        <Navbar />
+        <HeroSection />
+      </div>
+    </section>
+  
 </template>
