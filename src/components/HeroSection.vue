@@ -4,7 +4,7 @@
     >
     <div class="absolute inset-0"></div>
 
-    <div class="relative z-10 text-center max-w-2xl flex flex-col gap-y-10 lg:mt-16 items-center">
+    <div class="relative z-10 text-center max-w-2xl flex flex-col gap-y-10 md:top-0 items-center">
       <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
         Creative Home Simplify Your Furniture
       </h1>
